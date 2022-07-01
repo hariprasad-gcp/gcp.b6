@@ -1,4 +1,4 @@
-Big Query Functions :
+Big Query Functions :-
 
 1. Cast : convert one data type to another type 
 
